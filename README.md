@@ -4,6 +4,8 @@
 This project is a modern and responsive card UI design built using HTML and CSS.  
 It focuses on clean layout, styling, and responsive design principles.
 
+## ▶️ Live Demo - https://hussam2717.github.io/Modern-Profile-Card/
+
 ## 🚀 Features
 - Responsive card design
 - Clean UI layout
@@ -22,4 +24,3 @@ It focuses on clean layout, styling, and responsive design principles.
 - Responsive design basics
 - Hover and transition effects
 
-## 📂 Project Structure
